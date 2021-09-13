@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+# :wave: The Basics of GitHub For CPS 410
 
 ## 🤓 Course overview and learning outcomes 
 
